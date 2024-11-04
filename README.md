@@ -2,10 +2,7 @@
 
 ## Author Information
 - Name: Wathunyu Phetpaya
-- Student Code: 6710120039
-- Institution: Prince of Songkla University
-- Department: Computer Engineering
-- Degree: Master
+- Degree: Master Engineering in Computer Engineering
 
 ## Environment
 Framework | Version | Channel | Tool | DevTool

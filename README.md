@@ -2,7 +2,7 @@
 
 ## Author Information
 - Name: Wathunyu Phetpaya
-- Degree: Master Engineering in Computer Engineering
+- Degree: Master of Engineering in Computer Engineering
 
 ## Environment
 Framework | Version | Channel | Tool | DevTool
